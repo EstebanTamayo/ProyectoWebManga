@@ -1,0 +1,7 @@
+{
+  "name": "ProyectoWebManga",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
